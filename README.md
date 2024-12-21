@@ -35,7 +35,7 @@ Analyze the Spotify dataset to uncover insights on song popularity, artist trend
 
 Task: Create a Power BI dashboard connected to the SQL database.
 
-Requirements:
+**Requirements**:
 
 - Connect Power BI to the SQL database.
 - Design visualizations to provide insights such as:
@@ -46,16 +46,16 @@ Requirements:
 
 ---
 
-4. Real-Time Updates
+**4. Real-Time Updates**
 
-Task: Enable real-time updates in Power BI for the SQL database.
+**Task**: Enable real-time updates in Power BI for the SQL database.
 
 **Requirements**:
 
 - Configure Power BI to refresh periodically to capture any new data added to the SQL database.
 - Ensure data consistency between the SQL database and Power BI dashboard.
 
- 5. GitHub Repository
+ **5. GitHub Repository**
 
 
 
