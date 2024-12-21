@@ -59,4 +59,5 @@ Analyze the Spotify dataset to uncover insights on song popularity, artist trend
 - **MySQL**: Database design and management.  
 - **Power BI**: Data visualization and dashboard creation.
 ---
- ###
+ ### ![Screenshot 2024-12-22 002635](https://github.com/user-attachments/assets/0e7bcd58-6d41-43d2-bb30-7f154d8d0c25)
+
